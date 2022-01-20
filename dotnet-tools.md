@@ -17,8 +17,8 @@
 
 - Updates aspnet CRUD codegenerator
 ~~~
-- dotnet tool install --global dotnet aspnet-codegenerator
-- dotnet tool update --global dotnet aspnet-codegenerator
+- dotnet tool install --global dotnet-aspnet-codegenerator
+- dotnet tool update --global dotnet-aspnet-codegenerator
 ~~~
   
  - Scaffold the webpages: 
